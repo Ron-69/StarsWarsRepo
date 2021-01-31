@@ -7,4 +7,6 @@ Chewbacca
 Jar Jar Bin
 Padmé Amidala
 Jabba the Hutt
+Rey
+Finn
 
