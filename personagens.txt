@@ -6,3 +6,5 @@ Hans Solo
 Chewbacca
 Jar Jar Bin
 Padmé Amidala
+Jabba the Hutt
+
